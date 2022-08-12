@@ -1,7 +1,6 @@
 ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)]
 <h1 align="center">Hi 👋, I'm Ashutosh Shukla</h1>
 <h3 align="center">An aspiring Software Developer.</h3>
-img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/1HKaikaFqDt7i/giphy.gif?cid=790b7611af7b4f90299dfca6f25683aab7912521e7e53731&rid=giphy.gif&ct=g"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avidashu&label=Profile%20views&color=0e75b6&style=flat" alt="avidashu" /> </p>
 
