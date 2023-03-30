@@ -1,4 +1,4 @@
-![MasterHead](https://media3.giphy.com/media/ySSqDdVNYszPewGbW0/giphy.gif?cid=790b7611baa1519570ccc7d791fa06eac7907ad7ad5e9694&rid=giphy.gif&ct=g)
+![MasterHead]
 <h1 align="center">Hi 👋, I'm Ashutosh Shukla</h1>
 <h3 align="center">An aspiring Software Developer.</h3>
 
