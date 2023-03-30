@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avidashu&label=Profile%20views&color=0e75b6&style=flat" alt="avidashu" /> </p>
 
-- 🔭 I’m currently working on Social Media Clones
+- 🔭 I’m currently working as a Frontend Developer.
 - 🌱 I’m currently learning **React Js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/avidashu](https://github.com/avidashu)
