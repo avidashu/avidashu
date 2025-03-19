@@ -1,15 +1,13 @@
 <!-- ![MasterHead] -->
 <h1 align="center">Hi 👋, I'm Ashutosh Shukla</h1>
-<h3 align="center">An aspiring Software Developer.</h3>
+<h3 align="center">I'm a Software Developer.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=avidashu&label=Profile%20views&color=0e75b6&style=flat" alt="avidashu" /> </p>
-
-- 🔭 I’m currently working as a Frontend Developer.
-- 🌱 I’m currently learning **React Js**
+- 🔭 I’m currently working at TCS Digital.
+- 🌱 I am proficient in Java, Springboot, React.js and Microservices
 
 - 👨‍💻 All of my projects are available at [https://github.com/avidashu](https://github.com/avidashu)
 
-- 💬 Ask me about **HTML,CSS & JS**
+- 💬 Ask me about **Software Development**
 
 - 📫 How to reach me **ashuisavid@gmail.com**
 
