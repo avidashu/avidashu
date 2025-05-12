@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Ashutosh Shukla</h1>
 <h3 align="center">I'm a Software Developer.</h3>
 
-- 🔭 I’m currently working at TCS Digital.
+- 🔭 I’m currently working as a Java Backend Developer.
 - 🌱 I am proficient in Java, Springboot, React.js and Microservices
 
 - 👨‍💻 All of my projects are available at [https://github.com/avidashu](https://github.com/avidashu)
